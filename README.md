@@ -1,5 +1,7 @@
 # @compwright/is-lower-case
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/compwright/is-lower-case.svg)](https://greenkeeper.io/)
+
 [![Build status][travis-image]][travis-url]
 
 Check if a string is lower case.
