@@ -1,8 +1,6 @@
 # @compwright/is-lower-case
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/compwright/is-lower-case.svg)](https://greenkeeper.io/)
-
-[![Build status][travis-image]][travis-url]
+[![Build status][travis-image]][travis-url] [![Greenkeeper badge](https://badges.greenkeeper.io/compwright/is-lower-case.svg)](https://greenkeeper.io/)
 
 Check if a string is lower case.
 
@@ -22,9 +20,9 @@ npm install @compwright/is-lower-case --save
 ```javascript
 const isLowerCase = require('@compwright/is-lower-case')
 
-isLowerCase('STRING') // true
+isLowerCase('STRING') // false
 isLowerCase('String') // false
-isLowerCase('string') // false
+isLowerCase('string') // true
 
 // Returns undefined for non-strings
 isLowerCase(null) // undefined
@@ -33,7 +31,7 @@ isLowerCase(null) // undefined
 Locale support:
 
 ```javascript
-isLowerCase('STRİNG', 'tr') // true
+isLowerCase('STRİNG', 'tr') // false
 ```
 
 ## Typings
