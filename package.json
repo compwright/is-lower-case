@@ -1,6 +1,6 @@
 {
   "name": "@compwright/is-lower-case",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Fork of is-lower-case with added locale support",
   "main": "is-lower-case.js",
   "typings": "is-lower-case.d.ts",
