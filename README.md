@@ -6,6 +6,11 @@
 
 Check if a string is lower case.
 
+Forked from [blakeembrey/is-lower-case](https://github.com/blakeembrey/is-lower-case), with the following improvements:
+
+* Removed unnecessary dependencies
+* Added locale support
+
 ## Installation
 
 ```
@@ -15,7 +20,7 @@ npm install @compwright/is-lower-case --save
 ## Usage
 
 ```javascript
-const isLowerCase = require('is-lower-case')
+const isLowerCase = require('@compwright/is-lower-case')
 
 isLowerCase('STRING') // true
 isLowerCase('String') // false
