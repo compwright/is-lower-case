@@ -1,6 +1,9 @@
 # @compwright/is-lower-case
 
-[![Build status][travis-image]][travis-url] [![Greenkeeper badge](https://badges.greenkeeper.io/compwright/is-lower-case.svg)](https://greenkeeper.io/)
+[![Build status][travis-image]][travis-url]
+[![Dependency Status](https://img.shields.io/david/compwright/is-lower-case.svg?style=flat-square)](https://david-dm.org/compwright/is-lower-case)
+[![Download Status](https://img.shields.io/npm/dm/@compwright/is-lower-case.svg?style=flat-square)](https://www.npmjs.com/package/@compwright/is-lower-case)
+[![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
 
 Check if a string is lower case.
 

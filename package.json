@@ -16,8 +16,7 @@
   "standard": {
     "ignore": [
       "coverage/**",
-      "node_modules/**",
-      "bower_components/**"
+      "node_modules/**"
     ]
   },
   "repository": {
@@ -42,7 +41,7 @@
   },
   "homepage": "https://github.com/compwright/is-lower-case",
   "devDependencies": {
-    "mocha": "^7.1.1",
-    "standard": "^14.3.3"
+    "mocha": "^8.2.0",
+    "standard": "^16.0.3"
   }
 }
