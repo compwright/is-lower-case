@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/compwright/is-lower-case",
   "devDependencies": {
-    "mocha": "^8.4.0",
+    "mocha": "^9.0.2",
     "standard": "*"
   }
 }
